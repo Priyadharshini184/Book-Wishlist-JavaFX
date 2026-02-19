@@ -23,5 +23,4 @@ java --module-path "PATH_TO_JAVAFX_LIB" --add-modules javafx.controls applicatio
 > Note: UI appearance may vary slightly depending on JavaFX version and OS theme.
 ## Application Preview
 
-![App Screenshot]
-![alt text](<output.png>)
+![Book Wishlist Screenshot](output.png)
